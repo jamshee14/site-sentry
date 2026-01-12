@@ -3,3 +3,4 @@ __pycache__/
 network_log.csv
 venv/
 .DS_Store
+lambda_function.py
